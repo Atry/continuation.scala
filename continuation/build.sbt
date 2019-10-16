@@ -1,5 +1,3 @@
-organization := "com.thoughtworks.continuation"
-
 examplePackageRef := q"com.thoughtworks"
 
 libraryDependencies += "org.scalaz" %%% "scalaz-core" % "7.2.14"
